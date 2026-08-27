@@ -9,10 +9,10 @@ A Java program capable of multiplying extremely big integers that exceeds limits
 
 ## Technologies
 - Java
-- NetBeans
 
 ## License
-Licensed under a custom non-commercial license. You may use, copy, modify, and distribute this software for non-commercial purposes, subject to the conditions specified in the `LICENSE` file. Commercial use is prohibited without permission from the author.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+See the [LICENSE](LICENSE) file for the full license terms.
 
 ## Author
 Originally developed independently in 2016 by manmachine10.
