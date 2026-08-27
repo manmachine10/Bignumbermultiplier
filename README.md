@@ -15,4 +15,4 @@ A Java program capable of multiplying extremely big integers that exceeds limits
 Licensed under a custom non-commercial license. You may use, copy, modify, and distribute this software for non-commercial purposes, subject to the conditions specified in the `LICENSE` file. Commercial use is prohibited without permission from the author.
 
 ## Author
-Originally developed independently in 2016 by Jāsh.
+Originally developed independently in 2016 by manmachine10.
