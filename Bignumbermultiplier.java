@@ -3,7 +3,7 @@ public class Bignumbermultiplier {
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
 
-        // Originally developed independently in 2016 by Jāsh
+        // Originally developed independently in 2016 by manmachine10
 
         System.out.println("Welcome to BigNumberMultiplier.");
         System.out.println("Enter number one . ");
